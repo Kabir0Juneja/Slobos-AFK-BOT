@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kabir0pp.aternos.me:24847",
+    "ip": "kabir0pp.aternos.me",
     "port": 24847,
     "version": "1.21.1"
   },
